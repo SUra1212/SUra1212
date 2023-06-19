@@ -1,4 +1,4 @@
-<img height="450" width="1100" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif">
 <h1 align="center">Hi 👋, I'm Surath Chathuranga</h1>
 <h3 align="center">Full Stack Developer</h3>
 
