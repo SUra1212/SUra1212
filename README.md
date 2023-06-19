@@ -1,7 +1,7 @@
 <img height="450" width="1100" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h1 align="center">Hi 👋, I'm Surath Chathuranga</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Mern,Mean,C#,.Net,Swift,Java**
 
