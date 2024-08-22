@@ -4,13 +4,13 @@
 
 <h3>About Me! 🤩  </h3>
 <h4>
-I am currently pursuing a Bachelor of Science (Honours) degree in Information Technology with a specialization in Software Engineering at the Sri Lanka Institute of Information Technology👨🏻‍🎓. As a dedicated learner, I have a strong enthusiasm for expanding my knowledge and embracing various technologies and domains👨🏻‍💻. I thoroughly enjoy exploring emerging technologies and applying them to tackle real-world challenges creatively. Additionally, I have a profound passion for coding and find great joy in working on software projects😍.</h4>
+I hold a Bachelor of Science (Honours) degree in Information Technology, specializing in Software Engineering, from the Sri Lanka Institute of Information Technology👨🏻‍🎓. As a Software Engineer, I am passionate about continually expanding my knowledge and embracing various technologies and domains👨🏻‍💻. I enjoy exploring emerging technologies and applying them creatively to solve real-world challenges. My love for coding drives me to work on innovative software projects, and I find great satisfaction in bringing ideas to life through code😍.</h4>
 <br>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning .Net,Swift
 
-- 💬 Ask me about **Swift,Mern,Mean,Android**
+- 💬 Ask me about **Swift,Mern,Mean,Android,.NET**
 
 - 📫 How to reach me **surathc004@gmail.com**
 
