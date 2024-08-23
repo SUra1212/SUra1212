@@ -8,9 +8,9 @@ I hold a Bachelor of Science (Honours) degree in Information Technology, special
 <br>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning .Net Core,C#
+- 🌱 I’m currently learning .Net Core, C#
 
-- 💬 Ask me about **React,Angular,Node..NET**
+- 💬 Ask me about **React, Angular, Node, .NET**
 
 - 📫 How to reach me **surathc004@gmail.com**
 
