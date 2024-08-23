@@ -6,7 +6,7 @@
 <h4>
 I hold a Bachelor of Science (Honours) degree in Information Technology, specializing in Software Engineering, from the Sri Lanka Institute of Information Technology👨🏻‍🎓. As a Software Engineer, I am passionate about continually expanding my knowledge and embracing various technologies and domains👨🏻‍💻. I enjoy exploring emerging technologies and applying them creatively to solve real-world challenges. My love for coding drives me to work on innovative software projects, and I find great satisfaction in bringing ideas to life through code😍.</h4>
 
-<h4>My office project work is not reflected in my GitHub profile as it was completed using Azure DevOps tools</h4>
+<h4>"My current company's project work is not reflected on my GitHub profile, as it was completed using Azure DevOps tools."</h4>
 <br>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
